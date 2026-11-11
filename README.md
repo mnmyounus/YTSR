@@ -299,7 +299,7 @@ adb logcat -s "RecordingService:*" "YTSRAccessibility:*" "MainActivity:*" | grep
 ---
 ## Contributors
 
-- MNM YOUNUS (https://github.com/mnmyounus) - Maintainer
+- ([MNM YOUNUS](https://github.com/mnmyounus)) - Maintainer
 - **Claude** ([Anthropic](https://anthropic.com)) - AI Assistant & Code Generation
 
 **Made with ❤️ for Android TV**
